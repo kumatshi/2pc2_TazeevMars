@@ -1,0 +1,47 @@
+[
+  {
+    "Id": "b9702dbc-834b-4e68-976f-1aa9ba082c75",
+    "Name": "футбольный мяч",
+    "Description": "зимний",
+    "Category": "мячи",
+    "AcquisitionDate": "2023-11-03T00:00:00",
+    "Status": "актитвен",
+    "UserId": "4caedd4a-2863-4dec-a230-000ee0a09a17"
+  },
+  {
+    "Id": "fabee06a-16e8-4165-b546-d83e715dccfd",
+    "Name": "клюшка хоккейная зимняя",
+    "Description": "зимняя",
+    "Category": "клюшка",
+    "AcquisitionDate": "2024-05-01T00:00:00",
+    "Status": " активен",
+    "UserId": "24fb236b-209a-4a05-a635-dd2d49fe317d"
+  },
+  {
+    "Id": "5bf4d5bf-6d07-40e6-937d-96b71a04294e",
+    "Name": "dad",
+    "Description": "wada",
+    "Category": "awd",
+    "AcquisitionDate": "2000-03-13T00:00:00",
+    "Status": "12333",
+    "UserId": "df996567-8299-489d-b685-10b6fbb8855e"
+  },
+  {
+    "Id": "15b98ad2-d099-4a87-8a9e-7b3864abbc56",
+    "Name": "dwawd",
+    "Description": "dawdwa",
+    "Category": "awdaw",
+    "AcquisitionDate": "2000-10-10T00:00:00",
+    "Status": "awdawd",
+    "UserId": "b44bfb2b-9186-4d46-be3a-164d75643dc0"
+  },
+  {
+    "Id": "fa6bcd65-b0fe-48dc-a85f-68fb417117c8",
+    "Name": "awdawd",
+    "Description": "wadaw",
+    "Category": "adawd",
+    "AcquisitionDate": "2000-03-03T00:00:00",
+    "Status": "dawdwa",
+    "UserId": "24fb236b-209a-4a05-a635-dd2d49fe317d"
+  }
+]
